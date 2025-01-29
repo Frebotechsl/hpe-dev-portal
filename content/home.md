@@ -1,7 +1,7 @@
 ---
 title: FREBOTECHSL
 author: HPE
-image: /img/home/HPE-Developer-Community-Hero-1.png
+image: /img/2022-10-19-15_14_34-hpe-com-using-infinity-uql-native-api-calls-grafana-—-mozilla-firefox.png
 ---
 # HPE Developer Community
 
